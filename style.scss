@@ -26,7 +26,8 @@ $enable-print-styles:       true !default;
 // Theme settings.
 
 $body-bg: white;
-$body-color: #292b2c;
+$body-color: #555555;
+
 $body-color-inverse: invert($body-color) !default;
 $link-color: #0f2174;
 
@@ -52,6 +53,13 @@ $border-radius: .25rem;
 
 @import 'bootstrap-4.0.0-alpha.6';
 
+body{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+}
 .nav {
   background-color: #0f2174
+}
+
+label {
+  
 }
