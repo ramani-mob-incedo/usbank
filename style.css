@@ -1181,7 +1181,7 @@ pre {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #292b2c;
+  color: #555555;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -2467,7 +2467,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
     text-decoration: none;
     background-color: #f7f7f9; }
   .list-group-item-action:active {
-    color: #292b2c;
+    color: #555555;
     background-color: #eceeef; }
 
 .list-group-item {
@@ -3182,7 +3182,7 @@ button.list-group-item-danger {
 
 .popover-content {
   padding: 9px 14px;
-  color: #292b2c; }
+  color: #555555; }
 
 .popover::before,
 .popover::after {
@@ -3303,7 +3303,7 @@ body {
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
-  color: #292b2c;
+  color: #555555;
   background-color: white; }
 
 [tabindex="-1"]:focus {
@@ -5968,6 +5968,9 @@ body > * {
 
 .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
   font-family: inherit; }
+
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
 
 .nav {
   background-color: #0f2174; }
