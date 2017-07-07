@@ -5974,3 +5974,9 @@ body {
 
 .nav {
   background-color: #0f2174; }
+
+label {
+  font-weight: bold; }
+
+.border {
+  border: 1px solid #ccc; }
