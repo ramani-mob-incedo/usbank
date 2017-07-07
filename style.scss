@@ -1,5 +1,7 @@
 // Reassign color vars to semantic color scheme
-$brand-primary:             #00b0eb;
+$brand-primary:             #0f2174;
+
+
 $brand-success:             #5cb85c;
 $brand-info:                #5bc0de;
 $brand-warning:             #f0ad4e;
@@ -26,7 +28,8 @@ $enable-print-styles:       true !default;
 $body-bg: white;
 $body-color: #292b2c;
 $body-color-inverse: invert($body-color) !default;
-$link-color: #00b0eb;
+$link-color: #0f2174;
+
 
 $font-family-base: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $headings-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
